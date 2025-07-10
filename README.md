@@ -8,4 +8,4 @@ This repo contains projects that aim to automate, among others:
 
 Common tech stack used:
 * Programming language(s): Python
-* Libraries used: pandas, matploltib, seaborn, openpyxl
+* Libraries used: pandas, matploltib, seaborn, openpyxl, Streamlit
